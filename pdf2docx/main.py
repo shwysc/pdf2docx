@@ -1,6 +1,6 @@
 '''Entry for ``pdf2docx`` command line.'''
 import logging
-from .converter import Converter
+from pdf2docx.converter import Converter
 
 
 class PDF2DOCX:
